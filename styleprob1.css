@@ -101,11 +101,16 @@ body{
     padding:15px;
     border:transparent;
     border-radius: 10px;
+    font-size: 15px;
 }
 #item-5 button:hover
 {
     background-color: hsl(212, 21%, 14%);
     cursor:pointer;
+}
+#item-5 button img
+{
+    margin-right: 4px;
 }
 
 
