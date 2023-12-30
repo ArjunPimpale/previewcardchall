@@ -1,3 +1,54 @@
 body{
     font-size: 14px;
+    width:1440px;
+    height:100vh;
+    background-color: hsl(30, 38%, 92%);
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    padding:0;
+    margin:0;
+    
 }
+
+.container{
+    display:flex;
+    width:450px;
+    height:450px;
+    border:transparent;
+    border-radius: 10px;
+    justify-content: left;
+    overflow: hidden;
+    /* background-image:url('images/image-product-desktop.jpg');
+    background-size: cover;
+    background-position: center center;
+    width:100px;
+    height:100px; */
+}
+.half
+{
+    display:inline-block;
+    height:auto;
+}
+
+#part-1 img
+{
+    display:block;
+    
+     width:100%px;
+     height:100%;
+   
+}
+#part-2
+{
+    background-color: hsl(0, 0%, 100%);
+    padding:24px;
+}
+
+.content
+{
+    /* font-family: 'Fraunces', serif; */
+    font-family: 'Montserrat', sans-serif;
+    color:grey;
+}
+
