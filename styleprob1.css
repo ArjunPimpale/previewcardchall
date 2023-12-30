@@ -19,7 +19,7 @@ body{
     border-radius: 10px;
     justify-content: left;
     overflow: hidden;
-
+    flex-wrap: wrap;
 
     
     /* background-image:url('images/image-product-desktop.jpg');
